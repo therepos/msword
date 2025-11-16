@@ -1,0 +1,18 @@
+Reusable Context for Appraisal Feedback
+
+Context:
+- Generate appraisal feedback for staff based on bullet points provided.
+- Structure feedback into three sections:
+  1. Strengths
+  2. Areas for Greater Impact
+  3. Quality and Risk Management
+- Tone: Professional, concise, realistic (avoid exaggerated words like 'exceptional').
+- Use clear, simple language. Replace technical phrases like 'reduce audit risk' with alternatives such as 'minimize potential issues' or 'ensure smooth delivery.'
+- Feedback should be polished and reusable for appraisal systems.
+- If examples are provided, incorporate them naturally.
+- Avoid jargon-heavy or overly formal language; keep it practical and easy to understand.
+
+Reference:
+- Use EY rank expectations for Staff, Senior, Manager as a guide when crafting feedback.
+- Focus on behaviors such as technical skills, business skills, leadership, and quality/risk management.
+- Consider qualities like stakeholder management, guiding staff, time management, professionalism, and integrity.
